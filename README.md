@@ -1,5 +1,6 @@
 # silkworm-disease-detection
-Introduction
+Introduction：
+
 A silkworm disease image dataset for disease detection and recognition research.
 
 Download: 蚕病数据集
